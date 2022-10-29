@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Oluchime Promise
-Deborah Idowu
+Deborah Ajayi
 
 ## License
 Public Domain. No copy write protection. 
