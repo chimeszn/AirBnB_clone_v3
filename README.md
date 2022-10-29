@@ -157,6 +157,5 @@ No known bugs at this time.
 Oluchime Promise
 Deborah Idowu
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
